@@ -35,8 +35,8 @@
         </div>
       </section>
 
-      <section class="w-11/12 m-auto mt-16">
-        <table class="table-fixed">
+      <section class="w-11/12 lg:w-8/12 m-auto mt-16">
+        <table class="w-full table-fixed">
           <thead>
             <tr>
               <th class="border w-1/4 px-4 py-2">State</th>
@@ -106,7 +106,10 @@
     </main>
     <footer class="mt-8">
       <p class="text-center text-gray-500 text-xs">
-        &copy; Daniel Coker - <a href="https://twitter.com/danielcoker_" target="_blank">Twitter</a>
+        &copy; Daniel Coker -
+        <a href="https://twitter.com/danielcoker_" target="_blank">Twitter</a> |
+        <a href="https://www.trackcorona.live/" target="_blank">TrackCorona</a> |
+        <a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html" target="_blank">Safety</a>
       </p>
     </footer>
   </div>
