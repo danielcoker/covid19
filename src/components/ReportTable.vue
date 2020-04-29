@@ -25,7 +25,7 @@
           </td>
         </tr>
       </tbody>
-      <p class="text-sm" v-else>Fetching Data...</p>
+      <td colspan="4" v-else>Fetching Data...</td>
     </table>
   </section>
 </template>
